@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /mnt/data_main/CarND-Term3/CarND-Capstone/gitHub-repo/CarND-Capstone-System-Integration/ros/devel/setup.sh
